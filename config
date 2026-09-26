@@ -1,0 +1,50 @@
+# Font
+font-family = "JetBrains Mono"
+adjust-cell-height = 10%
+font-size = 14
+
+# Korean font fallback (SUIT)
+# 한글 자모 (Hangul Jamo)
+font-codepoint-map = U+1100-U+11FF=SUIT
+# 한글 호환 자모 (Hangul Compatibility Jamo)
+font-codepoint-map = U+3130-U+318F=SUIT
+# 한글 음절 (Hangul Syllables)
+font-codepoint-map = U+AC00-U+D7AF=SUIT
+# 한글 자모 확장 A/B
+font-codepoint-map = U+A960-U+A97F=SUIT
+font-codepoint-map = U+D7B0-U+D7FF=SUIT
+# CJK 기호 및 구두점
+font-codepoint-map = U+3000-U+303F=SUIT
+
+# Look and feel
+#[picker] background = #1D1E27
+#[picker] foreground = #FDFDFD
+window-padding-x = 10
+window-padding-y = 8
+cursor-style = bar
+cursor-style-blink = false
+scrollback-limit = 100000
+macos-option-as-alt = true
+
+#[picker] palette = 0=#282A2B
+#[picker] palette = 1=#F3977F
+#[picker] palette = 2=#5ADECD
+#[picker] palette = 3=#F272A2
+#[picker] palette = 4=#886F97
+#[picker] palette = 5=#C574DD
+#[picker] palette = 6=#79E6F3
+#[picker] palette = 7=#FDFDFD
+#[picker] palette = 8=#415844
+#[picker] palette = 9=#FF4971
+#[picker] palette = 10=#18E3C8
+#[picker] palette = 11=#FF8037
+#[picker] palette = 12=#556FFF
+#[picker] palette = 13=#B0D143
+#[picker] palette = 14=#3FDCEE
+#[picker] palette = 15=#BEBEC1
+
+# Ctrl+V가 한글 입력 상태에서도 붙여넣기 신호(\x16)로 가게 물리 키로 지정
+keybind = ctrl+key_v=text:\x16
+# >>> theme-picker
+theme = Studio Swiss Color
+# <<< theme-picker

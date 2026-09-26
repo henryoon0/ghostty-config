@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Lab Night Indigo",
+  "desc": "도쿄 밤거리 남보라, 색 구분이 가장 쉬운 다크",
+  "font": "JetBrains Mono",
+  "size": 14,
+  "cell": 10,
+  "body": 11.1,
+  "low": 6.8,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Wave Ink",
+  "desc": "우키요에 먹색과 바랜 물감, 차분한 한지 느낌",
+  "font": "IBM Plex Mono",
+  "size": 14,
+  "cell": 8,
+  "body": 11.3,
+  "low": 4.6,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Forest",
+  "desc": "숲속 이끼색, 눈이 편한 저채도 초록",
+  "font": "Fira Code",
+  "size": 14,
+  "cell": 8,
+  "body": 9.4,
+  "low": 5.8,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Retro Warm",
+  "desc": "레트로 갈색과 주황, 따뜻하고 대비 강함",
+  "font": "Source Code Pro",
+  "size": 14,
+  "cell": 8,
+  "body": 10.7,
+  "low": 4.5,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Solar Dark",
+  "desc": "태양광 계열 정밀 배색, 청록 바탕",
+  "font": "Hack",
+  "size": 14,
+  "cell": 6,
+  "body": 11.0,
+  "low": 4.5,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Carbon",
+  "desc": "IBM 카본 디자인, 순수한 검정과 형광 강조",
+  "font": "IBM Plex Mono",
+  "size": 14,
+  "cell": 8,
+  "body": 16.4,
+  "low": 5.4,
+  "dim": 4.2
+ },
+ {
+  "name": "Lab Pure Black",
+  "desc": "개발 도구 스타일의 순수 검정, 군더더기 없음",
+  "font": "Geist Mono",
+  "size": 14,
+  "cell": 12,
+  "body": 16.9,
+  "low": 6.7,
+  "dim": 4.2
+ },
+ {
+  "name": "Lab Deep Ocean",
+  "desc": "심해 남색과 파스텔, 코드가 선명하게 뜸",
+  "font": "Monaspace Neon",
+  "size": 13,
+  "cell": 10,
+  "body": 11.7,
+  "low": 6.6,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Vampire",
+  "desc": "보라 바탕 형광 파스텔, 밤샘 작업용",
+  "font": "Fira Code",
+  "size": 14,
+  "cell": 6,
+  "body": 14.9,
+  "low": 5.2,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Phosphor",
+  "desc": "옛날 녹색 모니터, 초록 한 가지 색",
+  "font": "Monaspace Krypton",
+  "size": 13,
+  "cell": 8,
+  "body": 14.9,
+  "low": 6.9,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Amber CRT",
+  "desc": "호박색 단색 모니터, 집중 모드",
+  "font": "Space Mono",
+  "size": 14,
+  "cell": 4,
+  "body": 11.1,
+  "low": 6.9,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Espresso",
+  "desc": "에스프레소 갈색과 크림, 커피챗 무드",
+  "font": "IBM Plex Mono",
+  "size": 14,
+  "cell": 10,
+  "body": 11.6,
+  "low": 5.3,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Glacier",
+  "desc": "북유럽 빙하 청회색, 아주 차분함",
+  "font": "JetBrains Mono",
+  "size": 14,
+  "cell": 10,
+  "body": 10.8,
+  "low": 4.5,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Sakura Night",
+  "desc": "벚꽃 핑크 포인트의 부드러운 다크",
+  "font": "Victor Mono",
+  "size": 15,
+  "cell": 6,
+  "body": 14.8,
+  "low": 7.2,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Cyber Neon",
+  "desc": "사이버펑크 형광 시안·마젠타",
+  "font": "Rec Mono Duotone",
+  "size": 14,
+  "cell": 8,
+  "body": 15.8,
+  "low": 5.7,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Low Light",
+  "desc": "불 끈 방 야간용, 밝기를 낮춘 저자극",
+  "font": "JetBrains Mono",
+  "size": 15,
+  "cell": 12,
+  "body": 8.1,
+  "low": 5.8,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Moss",
+  "desc": "회녹색 이끼, 녹색 계열로 통일",
+  "font": "Cascadia Code",
+  "size": 14,
+  "cell": 6,
+  "body": 12.2,
+  "low": 6.5,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Slate",
+  "desc": "웹 디자인 표준 슬레이트 회청색",
+  "font": "Geist Mono",
+  "size": 14,
+  "cell": 12,
+  "body": 11.9,
+  "low": 5.3,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Violet Minimal",
+  "desc": "무채색 + 보라 하나, 요즘 SaaS 감성",
+  "font": "Monaspace Neon",
+  "size": 13,
+  "cell": 10,
+  "body": 15.4,
+  "low": 4.6,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Clay",
+  "desc": "점토색 주황 한 가지, 따뜻한 무채색",
+  "font": "JetBrains Mono NL",
+  "size": 14,
+  "cell": 10,
+  "body": 14.3,
+  "low": 5.3,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Hangul Grid",
+  "desc": "한글·영문 폭이 정확히 맞는 D2Coding",
+  "font": "D2Coding",
+  "size": 15,
+  "cell": 6,
+  "body": 13.5,
+  "low": 6.7,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab AAA Dark",
+  "desc": "모든 색 7:1 이상, 큰 글씨 최대 가독성",
+  "font": "JetBrains Mono",
+  "size": 16,
+  "cell": 10,
+  "body": 21.0,
+  "low": 7.1,
+  "dim": 4.4
+ },
+ {
+  "name": "Lab Solar Light",
+  "desc": "태양광 배색의 밝은 버전, 크림 바탕",
+  "font": "Source Code Pro",
+  "size": 14,
+  "cell": 8,
+  "body": 8.5,
+  "low": 4.5,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Paper White",
+  "desc": "노트 앱 같은 흰 종이와 먹색",
+  "font": "IBM Plex Mono",
+  "size": 14,
+  "cell": 10,
+  "body": 12.3,
+  "low": 4.6,
+  "dim": 4.0
+ },
+ {
+  "name": "Lab Dawn Rose",
+  "desc": "새벽 장밋빛 라이트, 부드러운 필기체 이탤릭",
+  "font": "Victor Mono",
+  "size": 15,
+  "cell": 6,
+  "body": 6.7,
+  "low": 4.5,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Clean Light",
+  "desc": "코드 저장소 사이트 같은 깔끔한 라이트",
+  "font": "Monaspace Neon",
+  "size": 13,
+  "cell": 10,
+  "body": 15.8,
+  "low": 4.9,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Latte",
+  "desc": "라떼 크림 바탕, 커피챗 라이트 버전",
+  "font": "JetBrains Mono",
+  "size": 14,
+  "cell": 10,
+  "body": 11.3,
+  "low": 4.6,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Sepia",
+  "desc": "전자책 세피아, 긴 로그 읽기용",
+  "font": "IBM Plex Mono",
+  "size": 15,
+  "cell": 12,
+  "body": 10.2,
+  "low": 4.5,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab Mint Morning",
+  "desc": "민트빛 아침 라이트, 산뜻하고 가벼움",
+  "font": "Fira Code",
+  "size": 14,
+  "cell": 8,
+  "body": 13.6,
+  "low": 4.5,
+  "dim": 4.1
+ },
+ {
+  "name": "Lab AAA Light",
+  "desc": "흰 바탕 모든 색 7:1 이상, 밝은 곳 최대 가독성",
+  "font": "JetBrains Mono",
+  "size": 16,
+  "cell": 10,
+  "body": 21.0,
+  "low": 7.1,
+  "dim": 4.7
+ }
+]
